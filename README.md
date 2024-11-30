@@ -10,7 +10,7 @@ I used two types of data collection methods. These are automated data and manual
 
 ## Data Analysis
 
-In my project’s further steps, I will use these techniques in order: Data Preprocessing for cleaning and organizing data to ensure consistency and accuracy across all datasets, Exploratory Data Analysis (EDA) for visualizing data distributions and identifying initial patterns or anomalies, Correlation Analysis to calculate correlation coefficients to determine relationships between variables (e.g., screen time vs. sleep quality), Statistical Testing to apply techniques like Pearson or Spearman correlation to assess the significance of observed relationships, and finally, Visualization for creating graphs and charts to illustrate findings clearly.
+In my project’s further steps, I will use these techniques in order: Data Preprocessing for cleaning and organizing data to ensure consistency and accuracy across all datasets, Exploratory Data Analysis (EDA) for visualizing data distributions and identifying initial patterns or anomalies, Correlation Analysis to calculate correlation coefficients to determine relationships between variables (e.g., screen time vs. sleep quality), Statistical tests, such as Pearson or Spearman correlation, can be used to evaluate the importance of observed connections. Visualization techniques, like creating graphs and charts, can help to clearly demonstrate findings.
 
 ## Expected Findings
 
